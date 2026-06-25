@@ -1,0 +1,6 @@
+El comando "uname -a" muestra información general del sistema operativo, como el nombre del sistema, versión del kernel, arquitectura y otros detalles técnicos.
+
+El comando "whoami" muestra el nombre del usuario que está actualmente utilizando el sistema.
+
+Es útil conocer esta información porque permite identificar el entorno en el que se está trabajando, verificar permisos de usuario y entender mejor la configuración del servidor. 4
+Esto es importante para administrar correctamente el sistema y aplicar medidas de seguridad adecuadas.
